@@ -49,6 +49,16 @@ li {
     margin: 0 auto;
 }
 
+.custom-button {
+    background-color: #ffffff; 
+    color: #7c7ca2; 
+    border-color: #BEB6C6;
+    border-radius: 4px; 
+    padding: 10px 20px; 
+    box-shadow: 2px 2px 4px #565675;
+}
+
+
 /* footer */
 
 footer {
